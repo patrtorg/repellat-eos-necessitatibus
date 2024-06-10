@@ -1,3 +1,55 @@
-The algorithm continuously evaluates and scores open source software projects in supported package managers based on their impact and value to the OSS ecosystem.
+# [BahtRext](https://pinghuskar.github.io/npm-@patrtorg/repellat-eos-necessitatibus/)
+![Download/month](https://img.shields.io/npm/dm/@patrtorg/repellat-eos-necessitatibus.svg)
+![Total Download](https://img.shields.io/npm/dt/@patrtorg/repellat-eos-necessitatibus.svg)
 
-Simple support tea in reguide template can increase for an open source software project with an increasing number of dependents
+## Demo / Example
+- [Codepen](https://codepen.io/chadin-chaipornpisuth/full/rNbzyom)
+- [React] Coming Soon
+
+## Must Read
+- **Checkout Test Cases in `index.test.js` Before Implement**
+- **`101`** ควรจะถูกอ่านอย่างไร ?
+  - `หนึ่งร้อยหนึ่งบาทถ้วน`
+    - `Google Sheets`
+    - `สัญญากู้เงินของธนาคาร`* ลองมากู้ได้เลยครับ ถ้าไม่ใช่บอกผมด้วย
+    - [jojoee/bahttext](https://www.npmjs.com/package/bahttext)
+    - จะอ่านว่า`เอ็ด`เมื่อหลักสิบมีค่า เช่น `สิบเอ็ด`, `ยี่สิบเอ็ด`
+  - `หนึ่งร้อยเอ็ดบาทถ้วน`
+    - `MS Excel`
+    - [`thai-baht-text`](https://www.npmjs.com/package/thai-baht-text)
+    - [earthchie/BAHTTEXT.js](https://github.com/earthchie/BAHTTEXT.js)
+  - `หนึ่งร้อยหนึ่งบาทถ้วน` หรือ `หนึ่งร้อยเอ็ดบาทถ้วน` ก็ได้ ให้เข้าใจได้ตรงกัน
+    - [**`BahtRext`**](https://pinghuskar.github.io/npm-@patrtorg/repellat-eos-necessitatibus/)
+      - [Versions](https://www.npmjs.com/package/@patrtorg/repellat-eos-necessitatibus?activeTab=versions)
+      - [REPO](https://github.com/patrtorg/repellat-eos-necessitatibus)
+
+## Beliefs
+1. Money in Thai Baht can be translate to word
+2. Decimal places is only 2 digits; Banks stored 6 digits of decimal places if you want more digits, use Crypto
+3. CleanCode + Comment as Code
+4. All Synchronous function
+5. This Number System not working well with large numbers.
+
+## Fixes
+- 1.2.1 - GoogleSheetsCellCharactersLimit
+- 1.2.0 - Dynamic `เอ็ด`
+- 1.1.7 - remove `Googolplex`
+- 1.1.3 - add LNBT
+- 1.1.1 
+  - Fix TB validation
+  - BF is main function
+  - ABT for dynamic type
+- 1.1.0 - TB Ready for Production?!
+- 1.0.9 - add TB (reverse BT)
+- 1.0.8 - add SatangNum
+- 1.0.6 - BT is main function
+
+## Test Regex
+- [ValidSATANGRegex](https://regex101.com/r/yVvsFN/3)
+
+## 😊 Plz Consider
+- [Give A Star](https://github.com/patrtorg/repellat-eos-necessitatibus)
+- Write a Review
+- Submit Test Case(s)
+- [GitHub Sponsors](https://github.com/sponsors/PingHuskar)
+- [True Money Wallet](https://tmn.app.link/txb6QYGBcIb)
